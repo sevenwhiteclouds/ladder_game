@@ -1,1 +1,1 @@
-# csc11 -- final project in arm assembly
+# Ladder game in ARM assembly
